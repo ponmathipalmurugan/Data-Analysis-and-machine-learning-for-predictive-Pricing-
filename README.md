@@ -1,4 +1,10 @@
 # Data Analysis & Machine Learning for Predictive Pricing 
+*COMPANY*:CODTECH IT SOLUTION
+*NAME*:  Ponmathi Palmurugan
+*INTERN ID*: CT06XHX
+*DOMAIN*: DATA ANALYSIS,PYTHON
+*DURATION*: 6WEEKS
+*MENTOR*: NEELA SANTOSH
 
 ## About The Project 
 **This project utilizes Python for data analysis and machine learning. It covers core data science aspects from exploratory data analysis and data 
